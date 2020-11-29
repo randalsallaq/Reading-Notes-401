@@ -9,4 +9,4 @@
 
 ## Code 401 - Advanced Software Development
 
-During this course I am going to share what I am learning as a Python programmer from my readings.
+During this course I am going to share what I am learning from my readings.
