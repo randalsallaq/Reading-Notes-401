@@ -25,6 +25,6 @@ represents a function whose complexity is directly proportional to the square of
  ![lo](https://cdn.kastatic.org/googleusercontent/CfdIRZu_iMA_DFp7EilcK9igLFA42jd2hksGilRMBdINxoLKxj2LAWCjQxvj8m9E3Ik6tmVfPAFIx4whUTPp-KZw)
  
  
- # Names and Vlues in Pyrhon
+ 
  
  
