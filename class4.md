@@ -43,6 +43,6 @@
     # Recursive case: n! = n * (n-1)!
     else:
         return n * factorial_recursive(n-1)
-   ``
+   ```
 
 ![d](https://www.researchgate.net/profile/Takaya_Arita/publication/228370446/figure/fig1/AS:669488697602059@1536629952946/Recursive-Thinking-with-a-Theory-of-Mind.png)
