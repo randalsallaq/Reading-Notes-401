@@ -18,13 +18,13 @@
   myobjectx.variable
   ```
 
-   ***Accessing Object Variables:***
+   **Access Object Variables:**
 
-   we can di it using myobjectx.variable
+    myobjectx.variable
 
-   ***Accessing Object Functions:***
+   **Access Object Functions:**
 
-   we can do it using myobjectx.function()
+   myobjectx.function()
 
 
    ## Thinking recursively in python
@@ -44,3 +44,5 @@
     else:
         return n * factorial_recursive(n-1)
    ``
+
+![d](https://www.researchgate.net/profile/Takaya_Arita/publication/228370446/figure/fig1/AS:669488697602059@1536629952946/Recursive-Thinking-with-a-Theory-of-Mind.png)
