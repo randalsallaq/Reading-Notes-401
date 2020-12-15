@@ -27,4 +27,5 @@ In the equation, y is the single dependent variable value of which depends on mo
 
 
 ***REFERENCES***
+
 [How to run Linear regression in Python scikit-Learn](https://bigdata-madesimple.com/how-to-run-linear-regression-in-python-scikit-learn/)
