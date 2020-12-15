@@ -9,9 +9,8 @@ Matplotlib was originally written by John D. Hunter, since then it has an active
 
 ### Importing Matplotlib
 
-```import matplotlib as mpl`
-
-`import matplotlib.pyplot as plt```
+``import matplotlib as mpl
+import matplotlib.pyplot as plt``
 
 ### Setting Styles
 
