@@ -28,3 +28,18 @@
 `soup = BeautifulSoup(response.text, “html.parser”)`
 
 `soup.findAll('a')`
+
+
+### extract
+
+`one_a_tag = soup.findAll(‘a’)[38]`
+
+`link = one_a_tag[‘href’]`
+
+
+`download_url = 'http://web.mta.info/developers/'+ link`
+
+`urllib.request.urlretrieve(download_url,'./'+link[link.find('/turnstile_')+1:])`
+
+
+`time.sleep(1)`
