@@ -43,3 +43,11 @@
 
 
 `time.sleep(1)`
+
+
+
+## Beautiful Soup:
+
+#### Beautiful Soup is a Python library designed for quick turnaround projects like screen-scraping.
+
+`pip install beautifulsoup4`
